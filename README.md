@@ -7,8 +7,8 @@ The dataset I am using is Gapminder from http://www.gapminder.org/data/. I chose
 ## Exploratory Data Analysis
 
 I am interested with the following topic from the data, and did exploratory analysis to better understand the data: <br />
-1) Women fertility rate  
-2) Children mortality rate 
+a) Women fertility rate  
+b) Children mortality rate 
 3) Life expectancy 
 4) Individual Income
 5) Total child per woman vs. children motality rate
