@@ -1,4 +1,4 @@
-# gapminder_data_analaysis
+# gapminder_data_analysis
 
 ## Project Overview
 
