@@ -14,3 +14,8 @@ d) Individual Income <br />
 e) Total child per woman vs. children motality rate <br />
 f) Income and Life Expectancy vs. Child Mortality <br />
 g) Does certain region have different patterns for the above features? <br />
+
+
+## Conclusion
+
+Children per woman and child mortality are decreasing during the past two centuries, in the meanwhile, life expectancy and income are increasing. Europe performed better than other regions in these four features most of the time. 
