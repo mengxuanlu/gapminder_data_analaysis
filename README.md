@@ -7,10 +7,10 @@ The dataset I am using is Gapminder from http://www.gapminder.org/data/. I chose
 ## Exploratory Data Analysis
 
 I am interested with the following topic from the data, and did exploratory analysis to better understand the data: <br />
-a) Women fertility rate  
-b) Children mortality rate 
-c) Life expectancy 
-d) Individual Income
-e) Total child per woman vs. children motality rate
-f) Income and Life Expectancy vs. Child Mortality
-g) Does certain region have different patterns for the above features?
+a) Women fertility rate <br /> 
+b) Children mortality rate <br />
+c) Life expectancy <br />
+d) Individual Income <br />
+e) Total child per woman vs. children motality rate <br />
+f) Income and Life Expectancy vs. Child Mortality <br />
+g) Does certain region have different patterns for the above features? <br />
